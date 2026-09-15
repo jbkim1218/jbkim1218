@@ -1,3 +1,3 @@
-### Hi there 👋
+## Contribution Activity
 
-[![wakatime](https://wakatime.com/badge/user/f4059e90-3bb1-46a6-b257-525fcae56d5d.svg)](https://wakatime.com/@f4059e90-3bb1-46a6-b257-525fcae56d5d)
+[![Jungbin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jbkim1218&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
