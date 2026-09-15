@@ -14,7 +14,6 @@ React Native와 JavaScript로 아이디어를 구현하고,<br />
 <br />
 
 프로젝트 둘러보기 ↗
-https://github.com/jbkim1218?tab=repositories
 
 </div>
 
@@ -75,6 +74,12 @@ Java · Android
 <br />
 
 04 / Activity
+
+<!-- .github/workflows/profile-3d.yml을 추가하고 Actions에서 한 번 실행하면 표시됩니다. -->
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar, language distribution, and activity radar chart" />
+
+<br />
 
 
 
