@@ -17,17 +17,7 @@ React Native와 JavaScript로 아이디어를 구현하고,<br />
 
 </div>
 
-<br />
 
-01 / About
-
-Focus — 프론트엔드 · 모바일 UI · 사용자 경험
-
-Build — React Native 앱과 HTML / CSS / JavaScript 웹
-
-Explore — 일상의 문제를 해결하는 AI 기능
-
-<br />
 
 02 / Toolbox
 
@@ -40,42 +30,6 @@ Explore — 일상의 문제를 해결하는 AI 기능
 
 UI & Mobile · JavaScript / HTML / CSS / React Native
 Data & Tools · Firebase / Python / Java / Git
-
-<br />
-
-03 / Selected Work
-
-<!-- 프로젝트 설명을 확인하고, 공개할 저장소 주소가 있다면 프로젝트명에 링크를 추가하세요. -->
-
-Project
-
-What I built
-
-Stack
-
-Nail-biting Prevention
-
-손톱 물어뜯는 행동을 감지하고 알림을 제공하는 앱
-
-React Native · Teachable Machine
-
-Tactical
-
-로그인과 위치 기능을 활용한 택시 동승 앱
-
-React Native · Firebase
-
-Life Fit
-
-BMI 계산과 데이터 저장 기능을 갖춘 Android 앱
-
-Java · Android
-
-<br />
-
-04 / Activity
-
-<!-- .github/workflows/profile-3d.yml을 추가하고 Actions에서 한 번 실행하면 표시됩니다. -->
 
 <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar, language distribution, and activity radar chart" />
 
