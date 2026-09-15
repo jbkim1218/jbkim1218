@@ -14,6 +14,7 @@ React Native와 JavaScript로 아이디어를 구현하고,<br />
 <br />
 
 프로젝트 둘러보기 ↗
+https://github.com/jbkim1218?tab=repositories
 
 </div>
 
